@@ -62,6 +62,13 @@ This repository demonstrates **manual functional testing** and **backend data va
 3. Run the SQL queries in `SQL_Validation/` to validate backend data.
 4. Record issues in `Defect_Reports/`.
 
+## How to Execute This Project
+1. Use a sample database (MySQL / PostgreSQL / SQLite) with tables: students, courses, enrollments.
+2. Open the test plan PDF to understand the strategy.
+3. Execute the manual test cases in ENR_Test_Cases.xlsx.
+4. Run SQL queries in SQL_Data_Validation_Queries.sql against your sample DB.
+5. Log any bugs in Defect_Log.xlsx and update screenshots if available.
+
 ## Author
 Annapurna Matlapudi  
 Junior QA Analyst (Entry-Level)
